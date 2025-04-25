@@ -18,4 +18,4 @@ export default function cleanSet(set, startString) {
     }
     return parts.join('-');
   }
-  "Github message: Corrected conditional for checking function parameters"
+ 
